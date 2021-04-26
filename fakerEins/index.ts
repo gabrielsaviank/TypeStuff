@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const url =  'https://jsonplaceholder.typicode.com/todos/1'; 
 
-// This is used to define the structure of an object
+// This is used to define the structure of an object A TYPE
 interface Todo {
   id: number;
   title: string;
