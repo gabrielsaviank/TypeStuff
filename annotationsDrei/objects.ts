@@ -19,4 +19,4 @@ const {coords: {lat, lng}}: {coords: {lat: number, lng: number}} = profile;
 
 
 //Destructuring multiple properties (the error is because age is being redeclared)
-const {age, name}: {age: number; name: string} = profile;
+// const {age, name}: {age: number; name: string} = profile;
